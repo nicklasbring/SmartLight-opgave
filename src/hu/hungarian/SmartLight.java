@@ -2,8 +2,6 @@ package hu.hungarian;
 
 import javafx.scene.paint.Color;
 
-import java.lang.reflect.Field;
-
 public class SmartLight {
 
     private short lightPercent;
