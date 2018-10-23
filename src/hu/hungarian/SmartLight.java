@@ -4,6 +4,6 @@ import javafx.scene.paint.Color;
 
 public class SmartLight {
 
-    
+
 
 }
