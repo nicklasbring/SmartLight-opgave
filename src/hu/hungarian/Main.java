@@ -10,5 +10,16 @@ public class Main {
 	    // write your code here
         SmartLight s = new SmartLight();
         System.out.println(s.toString());
+
+
+        s.turnUp();
+        s.setColor(Color.RED);
+        s.setLightPercent((short) 78);
+
+        System.out.println();
+
+        System.out.println(s.toString());
+
+
     }
 }
